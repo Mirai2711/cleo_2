@@ -1,11 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="41892598-7063-449d-86c7-f0f31c4bb355" name="Changes" comment="" />
+    <list default="true" id="41892598-7063-449d-86c7-f0f31c4bb355" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cleo_streamlit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/get_data_from_supabas_also_called_supahero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/voice_for_cleo_nova.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supabase_add_data_supaheroes.py" beforeDir="false" afterPath="$PROJECT_DIR$/supabase_add_data_supaheroes.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,6 +41,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Gpt_connection_for_cleo.executor": "Run",
+    "Python.cleo_streamlit.executor": "Run",
+    "Python.get_data_from_supabas_also_called_supahero.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.supabase_add_data_supaheroes.executor": "Run",
+    "Python.variables.executor": "Run",
+    "Python.voice_for_cleo_nova.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
